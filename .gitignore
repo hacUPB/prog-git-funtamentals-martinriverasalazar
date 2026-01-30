@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C Extensiones
+*.so
+
+# Entornos Virtuales
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.installed.cfg
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Variables de entorno y secretos (Seguridad)
+.env
+.venv
+env.bak
+venv.bak
+secrets.json
+
+# Herramientas de Testing / Cobertura
+.tox/
+.nosepy/
+.pytest_cache/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Bases de datos y Logs
+*.log
+*.sqlite3
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
